@@ -6,6 +6,8 @@ const arr = [
   
   // Type your code below this line!
   
-  
+  console.log(arr);
+  arr[0].push(30);
+  console.log(arr);
   
   // Type your code above this line!
